@@ -1,2 +1,3 @@
 # NetPractice
-CCNA - TCP/IP
+
+Introduction to networking
